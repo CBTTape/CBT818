@@ -1,0 +1,7 @@
+2023-04-03 02:53:34.022705 - Initialized conversion of CBT818
+2023-04-03 02:53:34.055965 - Received CBT.V504.FILE818.PDS from FILE818.XMI 
+2023-04-03 02:53:34.058717 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE818.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:53:34.059942 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE818.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:53:34.061045 - Found @FILE818.txt (text/plain) in CBT.V504.FILE818.PDS, moved to PDS/@FILE818
+2023-04-03 02:53:34.061979 - Found A64STUB.txt (text/plain) in CBT.V504.FILE818.PDS, moved to PDS/A64STUB
+2023-04-03 02:53:34.062955 - Found A64ZAP.jcl (text/plain) in CBT.V504.FILE818.PDS, moved to PDS/A64ZAP
